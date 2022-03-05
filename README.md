@@ -1,2 +1,2 @@
 ![Screenshot](Screenshot.png)
-![Gif]](Homework3.gif)
+![Gif](Homework3.gif)
